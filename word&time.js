@@ -6,7 +6,7 @@
 
 //  how to solve 
 
-////////////////////////////
+////////////////////////////////////////////////////
 //  now to solve work and time questions wo can  use 2 concepts those are Fraction method and LCM   method
 
 //  fraction method 
